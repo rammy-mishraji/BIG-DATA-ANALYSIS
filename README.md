@@ -6,11 +6,6 @@
 *DURATION* : 4 WEEKS 
 *MENTOR* : NEELA SANTHOSH
 
-
-Certainly! Here's a detailed description of a big data analysis project in the **maintenance manufacturing field** using machine learning models like **Logistic Regression, Decision Tree Classifier, Random Forest Classifier**, and **Support Vector Classifier (SVC)**.
-
----
-
 ### **Project Title: Predictive Maintenance in Manufacturing Using Machine Learning**
 
 ### **Project Description:**
